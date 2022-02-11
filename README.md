@@ -4,6 +4,18 @@
 ## 수박게임 어디까지 해보셨나요? 이 버전은 오브젝트(여기서는 손진욱 얼굴...)의 물리적 특성을 살짝 변형할 수 있는 원작이 제공한 기본 기능을 최대치로 활용하여 난도를 극대화했습니다. 
 ## '12번째 사진은 없나요? 손진욱이 너무 쉬워요!'라고 생각하는 분들에게 바칩니다.
 
+la kɔ̃fjɑ̃s가 만든 수박게임 시리즈 손진욱 편
+- [기본모드](https://laconfianceensoi.github.io/nooktermelon/)
+- [물리적 특성을 조금 변형한 이른바 '눅공모드'](https://laconfiance.github.io/nooktermelon)
+- [리버스 모드](https://laconfianceensoi.github.io/reversenookbak/)
+- [익스트림 모드](https://laconfianceensoi.github.io/nooktermelonXtreme/)
+
+
+[감성 발라더 무쌍마초 대장 박장현 편](https://laconfianceensoi.github.io/jangmergemelons/)
+[숯불청년 김동현 편](https://laconfianceensoi.github.io/mergecharcoalmelons/)
+[포크 장인 박창근 편](https://laconfianceensoi.github.io/ajae/)
+
+
 # (아래는 원작자의 매뉴얼) 
 # 合成大西瓜
 
