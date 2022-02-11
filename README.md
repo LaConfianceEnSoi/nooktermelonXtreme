@@ -12,7 +12,9 @@ la kɔ̃fjɑ̃s가 만든 수박게임 시리즈 손진욱 편
 
 
 [감성 발라더 무쌍마초 대장 박장현 편](https://laconfianceensoi.github.io/jangmergemelons/)
+
 [숯불청년 김동현 편](https://laconfianceensoi.github.io/mergecharcoalmelons/)
+
 [포크 장인 박창근 편](https://laconfianceensoi.github.io/ajae/)
 
 
